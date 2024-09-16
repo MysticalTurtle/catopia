@@ -13,6 +13,8 @@ This is a flutter app that shows an infinite scroll of cat breeds with the use o
 
 ## Getting Started 🚀
 
+Make sure to have Flutter 3.24.2 installed
+
 This project contains 3 flavors:
 
 - development
